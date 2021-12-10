@@ -1,0 +1,17 @@
+.card {
+    height: 100%;
+}
+
+.card img {
+    cursor: zoom-in;
+}
+
+.card-footer:before {
+    content: 'Donante: ';
+}
+
+.intro {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80ch;
+}
